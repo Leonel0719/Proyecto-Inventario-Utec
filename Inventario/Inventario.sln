@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventario", "Inventario\Inventario.csproj", "{612AD4E0-691D-4FB9-96D2-D358ECC96428}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application Bussines Rules", "Application Bussines Rules", "{2422F7B6-8D62-429B-823C-867457C659EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise Bussines Rules", "Enterprise Bussines Rules", "{3E2825C3-FC23-4DA6-A82C-08F6D419B29A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks Drivers", "Frameworks Drivers", "{C9CD8699-848C-4292-ACB6-F1E8D7F8C955}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface Adapter", "Interface Adapter", "{75AE26FA-BFE4-4363-8D44-6A4E3AFC915B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612AD4E0-691D-4FB9-96D2-D358ECC96428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612AD4E0-691D-4FB9-96D2-D358ECC96428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612AD4E0-691D-4FB9-96D2-D358ECC96428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612AD4E0-691D-4FB9-96D2-D358ECC96428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{612AD4E0-691D-4FB9-96D2-D358ECC96428} = {C9CD8699-848C-4292-ACB6-F1E8D7F8C955}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6621E61D-3FFB-4A9F-AF5B-CCEAF2E7C2B2}
+	EndGlobalSection
+EndGlobal
