@@ -1,12 +1,92 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE1BF8D-2725-468A-88B2-17343691BB79}|Inventario.ArqLimpia.IcC\\Inventario.ArqLimpia.IcC.csproj|c:\\users\\leone\\onedrive\\escritorio\\proyecto-inventario-utec\\inventario\\inventario.arqlimpia.icc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE1BF8D-2725-468A-88B2-17343691BB79}|Inventario.ArqLimpia.IcC\\Inventario.ArqLimpia.IcC.csproj|solutionrelative:inventario.arqlimpia.icc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FC5125-D48C-42FB-A319-39337F81E4DC}|Inventario.ArqLimpia.DAL\\Inventario.ArqLimpia.DAL.csproj|c:\\users\\leone\\onedrive\\escritorio\\proyecto-inventario-utec\\inventario\\inventario.arqlimpia.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FC5125-D48C-42FB-A319-39337F81E4DC}|Inventario.ArqLimpia.DAL\\Inventario.ArqLimpia.DAL.csproj|solutionrelative:inventario.arqlimpia.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C70E5E-DD57-44B5-B6F2-65918434C8AF}|Inventario.ArqLimpia.BL.Interfaces\\Inventario.ArqLimpia.BL.Interfaces.csproj|c:\\users\\leone\\onedrive\\escritorio\\proyecto-inventario-utec\\inventario\\inventario.arqlimpia.bl.interfaces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C70E5E-DD57-44B5-B6F2-65918434C8AF}|Inventario.ArqLimpia.BL.Interfaces\\Inventario.ArqLimpia.BL.Interfaces.csproj|solutionrelative:inventario.arqlimpia.bl.interfaces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38C2543-46CE-42AE-8A41-444BCEE8A4F7}|Inventario.ArqLimpia.BL.DTOs\\Inventario.ArqLimpia.BL.DTOs.csproj|c:\\users\\leone\\onedrive\\escritorio\\proyecto-inventario-utec\\inventario\\inventario.arqlimpia.bl.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38C2543-46CE-42AE-8A41-444BCEE8A4F7}|Inventario.ArqLimpia.BL.DTOs\\Inventario.ArqLimpia.BL.DTOs.csproj|solutionrelative:inventario.arqlimpia.bl.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.IcC\\Class1.cs",
+              "RelativeDocumentMoniker": "Inventario.ArqLimpia.IcC\\Class1.cs",
+              "ToolTip": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.IcC\\Class1.cs",
+              "RelativeToolTip": "Inventario.ArqLimpia.IcC\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:29:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Inventario.ArqLimpia.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.DAL\\Class1.cs",
+              "RelativeToolTip": "Inventario.ArqLimpia.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:29:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.BL.Interfaces\\Class1.cs",
+              "RelativeDocumentMoniker": "Inventario.ArqLimpia.BL.Interfaces\\Class1.cs",
+              "ToolTip": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.BL.Interfaces\\Class1.cs",
+              "RelativeToolTip": "Inventario.ArqLimpia.BL.Interfaces\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:28:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.BL.DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "Inventario.ArqLimpia.BL.DTOs\\Class1.cs",
+              "ToolTip": "C:\\Users\\leone\\OneDrive\\Escritorio\\Proyecto-Inventario-Utec\\Inventario\\Inventario.ArqLimpia.BL.DTOs\\Class1.cs",
+              "RelativeToolTip": "Inventario.ArqLimpia.BL.DTOs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:27:43.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
